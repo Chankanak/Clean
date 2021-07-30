@@ -2,13 +2,11 @@
 # Webtalk v2019.1 (64-bit)
 # SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
 # IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
-# Start of session at: Fri Jul 30 16:47:21 2021
-# Process ID: 12228
+# Start of session at: Fri Jul 30 16:43:18 2021
+# Process ID: 13152
 # Current directory: C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.sim/sim_1/behav/xsim
 # Command line: wbtcv.exe -mode batch -source C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/mux41_gatelevel_behav/webtalk/xsim_webtalk.tcl -notrace
 # Log file: C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
 # Journal file: C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
 #-----------------------------------------------------------
 source C:/Users/chank/Documents/GitHub/Clean/project -notrace
-couldn't read file "C:/Users/chank/Documents/GitHub/Clean/project": no such file or directory
-INFO: [Common 17-206] Exiting Webtalk at Fri Jul 30 16:47:21 2021...
