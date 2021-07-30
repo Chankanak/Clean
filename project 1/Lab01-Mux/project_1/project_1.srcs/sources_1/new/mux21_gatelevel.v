@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 07/30/2021 04:15:53 PM
+// Create Date: 07/30/2021 01:57:19 PM
 // Design Name: 
-// Module Name: mux41_gatelevel
+// Module Name: mux21_gatelevel
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,7 +20,7 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module mux41_gatelevel(
+module mux21_gatelevel(a,b
 
     );
 endmodule
