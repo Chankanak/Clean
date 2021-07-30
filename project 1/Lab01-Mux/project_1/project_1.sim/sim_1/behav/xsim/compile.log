@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.srcs/sources_1/new/mux41_gatelevel.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux41_gatelevel
+INFO: [VRFC 10-2458] undeclared symbol s0bar, assumed default net type wire [C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.srcs/sources_1/new/mux41_gatelevel.v:30]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/chank/Documents/GitHub/Clean/project 1/Lab01-Mux/project_1/project_1.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

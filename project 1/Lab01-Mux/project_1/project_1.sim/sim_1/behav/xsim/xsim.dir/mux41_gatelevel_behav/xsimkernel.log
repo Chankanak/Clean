@@ -1,0 +1,4 @@
+Running: xsim.dir/mux41_gatelevel_behav/xsimk.exe -simmode gui -wdb mux41_gatelevel_behav.wdb -simrunnum 0 -socket 62554
+Design successfully loaded
+Design Loading Memory Usage: 5964 KB (Peak: 5964 KB)
+Design Loading CPU Usage: 46 ms
